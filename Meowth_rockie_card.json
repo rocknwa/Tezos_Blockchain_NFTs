@@ -1,0 +1,27 @@
+{
+  "decimals": 0,
+  "isBooleanAmount": true,
+  "name": "Meowth_rockie_card",
+  "description": "Behold the majestic Meowth Rockie Card, a symbol of feline grace and elegance.",
+  "tags": [
+    "My",
+    "first nft",
+    "collectible"
+  ],
+  "minter": "tz1hZ9HwrFGnKYXEThaZEtDg6kX9sXky2nwC",
+  "artifactUri": "ipfs://QmTFSpf92bZ1YU91x7shRGE5AvhuoJmFCiCoKWHDerqqR4",
+  "displayUri": "ipfs://QmTFSpf92bZ1YU91x7shRGE5AvhuoJmFCiCoKWHDerqqR4",
+  "thumbnailUri": "ipfs://QmTFSpf92bZ1YU91x7shRGE5AvhuoJmFCiCoKWHDerqqR4",
+  "creators": ["Rock", "Vicky"],
+  "rights": "All rights reserved. This NFT is for personal enjoyment only and may not be reproduced or used for commercial purposes.",
+  "attributes": [
+    {
+      "name": "Special Trait",
+      "value": "Exquisite Craftsmanship"
+    },
+    {
+      "name": "Rarity",
+      "value": "Legendary"
+    }
+  ]
+}

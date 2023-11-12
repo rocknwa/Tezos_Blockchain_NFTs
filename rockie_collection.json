@@ -1,0 +1,18 @@
+{
+  "name": "rockie_collection",
+  "description": "Awesome_NFT_collection",
+  "version": "1.0.0",
+  "license": {
+    "name": "MIT"
+  },
+  "interfaces": [
+    "TZIP-016",
+    "TZIP-012",
+    "TZIP-021"
+  ],
+  "source": {
+    "tools": [
+      "LIGO"
+    ]
+  }
+}

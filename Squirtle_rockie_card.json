@@ -1,0 +1,27 @@
+{
+  "decimals": 0,
+  "isBooleanAmount": true,
+  "name": "Squirtle_rockie_card",
+  "description": "Behold the legendary Squirtle Rockie Card, a symbol of aquatic strength and determination.",
+  "tags": [
+    "My first",
+    "Tezos NFT",
+    "Collectible"
+  ],
+  "minter": "tz1hZ9HwrFGnKYXEThaZEtDg6kX9sXky2nwC",
+  "artifactUri": "ipfs://QmfJxrztzTChkkixWiiEwPjq2GJePgcWcaiZ6ojPG9x3SS",
+  "displayUri": "ipfs://QmfJxrztzTChkkixWiiEwPjq2GJePgcWcaiZ6ojPG9x3SS",
+  "thumbnailUri": "ipfs://QmfJxrztzTChkkixWiiEwPjq2GJePgcWcaiZ6ojPG9x3SS",
+  "creators": ["Rock", "Vicky"],
+  "rights": "All rights reserved. This NFT is for personal enjoyment only and may not be reproduced or used for commercial purposes.",
+  "attributes": [
+    {
+      "name": "Special Trait",
+      "value": "Aquatic Mastery"
+    },
+    {
+      "name": "Rarity",
+      "value": "Epic"
+    }
+  ]
+}
